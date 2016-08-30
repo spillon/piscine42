@@ -1,0 +1,5 @@
+Credentials cache: API:6F939E64-FC58-4713-ACE2-F4349744E442
+        Principal: spillon@42.FR
+
+  Issued                Expires               Principal
+Aug 29 13:05:44 2016  Sep  5 13:05:44 2016  krbtgt/42.FR@42.FR
